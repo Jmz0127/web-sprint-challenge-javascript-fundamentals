@@ -32,7 +32,7 @@ function summation(number) {
 	}
 	return number;
 }
-console.log(summation(5));
+console.log(summation(10));
 
 // 🦁🦁🦁 Topic 2: ADVANCED Array Methods 🦁🦁🦁
 // Given this zoo data from around the United States, follow the instructions below. Use the specific array methods in the requests below to solve the problems.
